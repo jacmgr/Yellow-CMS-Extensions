@@ -76,7 +76,7 @@ I copied it, bastardized it, and pounded it into something that at least works f
 >In any case, maybe someone who knows what they are doing and has a similar desire could put this kind of 
 front end onto the search, or feed, or other similar extension.
 
-I have used this for main content pages, sidebars, menus, etc.... on 2 of the sites I am converting from 2 years ago. They are coming along great with Yellow. (You can look at the SOURCE MD on most of my pages.)
+I have used this for main content pages, sidebars, menus, etc.... on [most of my sites](https://www.urichip.com/sites/intro/). They are coming along great with Yellow. (You can look at the SOURCE MD on most of my pages.)
 
 ### Dependencies
 - Yellow CMS Version 0.9.3: You already got that or you wouldn't be here!  
