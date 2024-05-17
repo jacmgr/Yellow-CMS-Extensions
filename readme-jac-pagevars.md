@@ -136,8 +136,8 @@ $this->config = array(
 
 Just like the examples:  `[%pagevarename%]`.
 
-> [Search wikipedia]([% wikipedia%])
-> [Search wikipedia]([%wikipedia%])
+> [Search wikipedia]([% wikipedia%])France
+> [Search wikipedia](https://en.wikipedia.org/wiki/?France)
 
 > Todays party is [% BYOB%].   
 > Todays party is ** Bring Your Own Bottle **
