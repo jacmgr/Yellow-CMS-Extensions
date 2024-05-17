@@ -16,7 +16,7 @@ version: 0.0.9
 function of identifying image that does not exist and linking to the functions in this extension.
 
 [--more--]
-![jacImageList a Yellow CMS Extension](screenshot-jacimage.jpg)
+![jacImageList a Yellow CMS Extension](images/screenshot-jacimage.jpg)
 
 ## Description jacImageList
 
