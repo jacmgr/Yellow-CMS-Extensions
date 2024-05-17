@@ -13,7 +13,7 @@ version: 0.0.9
 # jacPageVars 0.0.9
 
 [Yellow CMS] Extension to provide markdown page access to the page `meta variables`.  
-
+( some examples in this readme show incorrectly because of the nature of the tags!  [See author's site.](https://urichip.com/sites/devdocs/extensions)
 As far as I know the yellow layouts DO include access to the META, however the MD PAGE itself does not.
 This extension allows the page META to be used in markdown.   
 This extension also allows you to add additional data variables or snippets to the Meta to be used in the page.
@@ -137,6 +137,7 @@ $this->config = array(
 Just like the examples:  `[%pagevarename%]`.
 
 > [Search wikipedia]([% wikipedia%])France
+
 > [Search wikipedia](https://en.wikipedia.org/wiki/?France)
 
 > Todays party is [% BYOB%].   
@@ -169,7 +170,7 @@ ParentTop: [% parenttop%]
 ```
 
 This effectively put the footer-content on the bottem of every page without writing php code in the layout. Works well for this situation. Of course more complicated footers would need to use layout and php.
-![Yellocms on Urichip](footer.png)
+![Yellocms on Urichip](images/footer.png)
 
 What's the point?  Helps me a lot when when I was young and couldn't grasp yellow changeing page names.  
 Helps understand why yellow does it.  When the sites done I'll change the footer-content to `[% BYOB%]`.  
