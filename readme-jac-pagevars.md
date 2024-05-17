@@ -23,7 +23,7 @@ I refer to these collectively as **Page Variables (pagevars)**.
 
 [--more--]
 
-![jacPageVars a Yellow CMS Extension](screenshot-jacPageVars.jpg)
+![jacPageVars a Yellow CMS Extension](images/screenshot-jacPageVars.jpg)
 
 ## Description
 
