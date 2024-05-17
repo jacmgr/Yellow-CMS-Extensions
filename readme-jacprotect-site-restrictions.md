@@ -9,7 +9,9 @@ version: 0.0.9
 ---
 # Restrict User Access to Pages
 
-Trying to figure out the best way to restrict access to a site to just myself.  I only have 1 user through the [yellow edit extension](https://github.com/annaesvensson/yellow-edit).  I looked at the [restrict extension](url) and the [draft](https://github.com/annaesvensson/yellow-draft) and the [private extension(https://github.com/schulle4u/yellow-private). Each has some pros and cons, but they don't do what I intended.  For now I settled on a simple solution I found on the [Datenstrom Yellow Discussion Board](https://github.com/datenstrom/yellow/discussions)
+Trying to figure out the best way to restrict access to a site to just myself.  I only have 1 user through the [yellow edit extension](https://github.com/annaesvensson/yellow-edit).  I looked at the [restrict extension](url) and the [draft](https://github.com/annaesvensson/yellow-draft) and the [private extension(https://github.com/schulle4u/yellow-private). Each has some pros and cons, but they don't do what I intended.  For now I settled on a couple solutions.
+
+> UNFINISHED README..... You can see it in action at Author's example Site Make sure you read to the bottom of the page to see how to login and try it out.
 
 [--more--]
 
