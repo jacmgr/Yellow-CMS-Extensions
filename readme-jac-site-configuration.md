@@ -18,7 +18,7 @@ version: 0.0.9
 ## Description
 
 This wonky, and only a proof of concept.  DO NOT USE.  This works well for a quick prototype using your existing already customized themes.
-I am doing this because all of my hobby sites [use a single installation of the yellow system](readme-jacmultisite-on-one-installation).  It is convenient, but the techniques I used to do it may not be appropriate for things you consider important, or, commercial or production sites.
+I am doing this because all of my hobby sites [use a single installation of the yellow system](readme-jacmultisite-on-one-installation.md).  It is convenient, but the techniques I used to do it may not be appropriate for things you consider important, or, commercial or production sites.
 
 The basic configuration i use is shown below from a file located adjacent to your yellow.php file and named **jacsite-cfg.php**.
 
