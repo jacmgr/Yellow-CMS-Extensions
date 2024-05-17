@@ -16,7 +16,7 @@ mathjax: true
 [Yellow CMS] Extension for display of [MathJax] produced mathematical/scientific notion in LaTeX, MathML, or AsciiMath in your markdown page.
 
 [--more--]
-![jacMathJax a Yellow CMS Extension](screenshot-jacmathjax.jpg)
+![jacMathJax a Yellow CMS Extension](images/screenshot-jacmathjax.jpg)
 
 ## Description
 Mathjax library is JavaScript and works mostly over the internet. It takes your prepared markup (LaTeX/MathML/AsciiMath) and transforms it to an HTML output that you capture and display n your webpage.  This extensions simply provides access to that capability from within [Yellow].
