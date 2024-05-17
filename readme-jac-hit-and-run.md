@@ -15,7 +15,7 @@ version: 0.0.9
 
 [--more--]
 
-![jacHitandRun - a Yellow CMS Extension](screenshot-jachitandrun.png)
+![jacHitandRun - a Yellow CMS Extension](images/screenshot-jachitandrun.png)
 
 ## Description
 
