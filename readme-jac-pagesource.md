@@ -14,7 +14,7 @@ version: 0.0.9
 [Yellow CMS] Extension to provide the markdown source of the current page IN the current page. Useful for debugging, and for copy and paste to other pages.
 
 [--more--]
-![jacPageSource a Yellow CMS Extension](screenshot-jacpagesource.png)
+![jacPageSource a Yellow CMS Extension](images/screenshot-jacpagesource.png)
 
 ## Description
 
