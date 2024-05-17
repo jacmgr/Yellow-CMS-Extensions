@@ -114,7 +114,7 @@ When `$a \ne 0$`, there are two solutions to `\(ax^2 + bx + c = 0\)` and they ar
 
 Some Help from author on github discussionsr. 
 Lots of great help at [MathJax site][MathJax]. 
-You can see more examples [on authors site](https://urichip.com/jh/posts/using-mathjax?source=true).
+You can see more examples [on authors site](https://urichip.com/posts/using-mathjax?source=true).
 
 ## Authors
 
