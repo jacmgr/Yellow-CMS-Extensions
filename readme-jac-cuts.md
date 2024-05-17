@@ -16,7 +16,7 @@ version: 0.0.9
 
 [--more--]
 
-![jacCuts a Yellow CMS Extension](screenshot-jaccuts.jpg)
+![jacCuts a Yellow CMS Extension](images/screenshot-jaccuts.jpg)
 
 ## Description
 
