@@ -19,7 +19,7 @@ Useful for blog, News, or any folder with multiple files.  Includes two shortcod
 
 [--more--]
 
-![jacSelectPages a Yellow CMS Extension](screenshot-jacfilterpages.jpg)
+![jacSelectPages a Yellow CMS Extension](images/screenshot-jacfilterpages.jpg)
 
 ## Description
 
