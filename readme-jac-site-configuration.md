@@ -14,7 +14,7 @@ version: 0.0.9
 [Yellow CMS] Extension to provide a method of configuring similar sites using similar customized templates. Used when you are using a MULTIPLE Sites that may use the same customized theme or layout files.
 
 [--more--]
-![jacSiteCFG a Yellow CMS Extension](screenshot-jacsitecfg.png)
+![jacSiteCFG a Yellow CMS Extension](images/screenshot-jacsitecfg.png)
 ## Description
 
 This wonky, and only a proof of concept.  DO NOT USE.  This works well for a quick prototype using your existing already customized themes.
