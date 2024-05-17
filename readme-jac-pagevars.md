@@ -13,7 +13,8 @@ version: 0.0.9
 # jacPageVars 0.0.9
 
 [Yellow CMS] Extension to provide markdown page access to the page `meta variables`.  
-( some examples in this readme show incorrectly because of the nature of the tags!  [See author's site.](https://urichip.com/sites/devdocs/extensions)
+> some examples in this readme show incorrectly because of the nature of the tags!  [See author's site.]([https://urichip.com/sites/devdocs/extensions](https://urichip.com/sites/devdocs/devdocs/jacextensions/)
+
 As far as I know the yellow layouts DO include access to the META, however the MD PAGE itself does not.
 This extension allows the page META to be used in markdown.   
 This extension also allows you to add additional data variables or snippets to the Meta to be used in the page.
