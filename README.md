@@ -1,5 +1,7 @@
 # Yellow-CMS-Extensions
 
+A collection of extensions made for the [Datenstrom Yellow CMS](https://datenstrom.se/yellow/).
+
 All extensions are in a single ZIP file.
 
 Individual readme files are here on github (not in the zip!)
